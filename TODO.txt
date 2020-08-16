@@ -1,0 +1,7 @@
+1. Dodati asocijacije.
+2. Poboljsati baze
+6. Enter ko zna zna
+
+MOZDA NEKADA: 
+    - Ako u isto vreme kliknu join moze da se joinuje 5 igraca
+    - Predji na sledecu igru dugme
